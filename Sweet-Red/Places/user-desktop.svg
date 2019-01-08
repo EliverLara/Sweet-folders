@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="user-desktop.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="878"
+     inkscape:window-height="480"
+     id="namedview33"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g29" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="_clipPath_kMHtJKMat1jsM0t7egwr61VO0DOwHSvX">
+      <rect
+         width="48"
+         height="48"
+         id="rect2" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#_lgradient_21"
+       id="linearGradient848"
+       x1="11.25"
+       y1="32.3545"
+       x2="36.75"
+       y2="32.3545"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#_lgradient_21"
+       id="linearGradient856"
+       x1="0.72883397"
+       y1="30.826435"
+       x2="46.729"
+       y2="30.826435"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#_lgradient_21"
+       id="linearGradient864"
+       x1="0.74267697"
+       y1="15.475848"
+       x2="20.946566"
+       y2="15.475848"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     clip-path="url(#_clipPath_kMHtJKMat1jsM0t7egwr61VO0DOwHSvX)"
+     id="g29">
+    <linearGradient
+       id="_lgradient_20"
+       x1="-0.04632800608827978"
+       y1="0.15974072496964337"
+       x2="0.8522006595636732"
+       y2="0.7102370619103313"
+       gradientTransform="matrix(45,0,0,30.763,1.229,15.445)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="3.0434782608695654%"
+         stop-opacity="1"
+         style="stop-color:#FF416C"
+         id="stop7" />
+      <stop
+         offset="98.26086956521739%"
+         stop-opacity="1"
+         style="stop-color:#FF4B2B"
+         id="stop9" />
+    </linearGradient>
+    <path
+       d=" M 1.545 46.208 L 45.923 46.198 C 46.092 46.198 46.229 46.061 46.229 45.892 L 46.229 15.772 C 46.229 15.603 46.092 15.466 45.923 15.465 L 20.107 15.445 L 15.886 18.651 C 15.818 18.702 15.695 18.743 15.61 18.743 L 1.229 18.688 L 1.238 45.902 C 1.238 46.071 1.376 46.208 1.545 46.208 Z "
+       fill="url(#_lgradient_20)"
+       vector-effect="non-scaling-stroke"
+       stroke-width="1"
+       stroke="#FF4B2B"
+       stroke-linejoin="miter"
+       stroke-linecap="square"
+       stroke-miterlimit="3"
+       id="path12"
+       style="fill:none;stroke:url(#linearGradient856)" />
+    <linearGradient
+       id="_lgradient_21"
+       x1="0"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       gradientTransform="matrix(18.873,0,0,6.535,1.243,12.208)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="3.0434782608695654%"
+         stop-opacity="1"
+         style="stop-color:#FF416C"
+         id="stop14" />
+      <stop
+         offset="98.26086956521739%"
+         stop-opacity="1"
+         style="stop-color:#FF4B2B"
+         id="stop16" />
+    </linearGradient>
+    <path
+       d=" M 20.116 15.456 L 15.887 12.3 C 15.819 12.249 15.695 12.208 15.61 12.208 L 1.554 12.208 C 1.385 12.208 1.247 12.346 1.247 12.515 L 1.243 18.683 L 15.8 18.743 L 20.116 15.456 Z "
+       fill="url(#_lgradient_21)"
+       vector-effect="non-scaling-stroke"
+       stroke-width="1"
+       stroke="#FF4B2B"
+       stroke-linejoin="miter"
+       stroke-linecap="square"
+       stroke-miterlimit="3"
+       id="path19"
+       style="stroke:url(#linearGradient864);fill:none" />
+    <g
+       id="g27"
+       style="fill-opacity:1.0;fill:url(#linearGradient848)">
+      <path
+         d=" M 34.818 39.78 L 13.182 39.78 C 12.117 39.78 11.25 38.913 11.25 37.848 L 11.25 23.167 C 11.25 22.101 12.117 21.235 13.182 21.235 L 34.818 21.235 C 35.883 21.235 36.75 22.101 36.75 23.167 L 36.75 37.848 C 36.75 38.913 35.883 39.78 34.818 39.78 Z  M 13.182 22.008 C 12.543 22.008 12.023 22.528 12.023 23.167 L 12.023 37.848 C 12.023 38.487 12.543 39.007 13.182 39.007 L 34.818 39.007 C 35.457 39.007 35.977 38.487 35.977 37.848 L 35.977 23.167 C 35.977 22.528 35.457 22.008 34.818 22.008 L 13.182 22.008 Z "
+         fill="rgb(255,255,255)"
+         id="path21"
+         style="fill-opacity:1.0;fill:url(#linearGradient848)" />
+      <path
+         d=" M 28.926 43.474 L 19.074 43.474 C 18.861 43.474 18.688 43.301 18.688 43.088 C 18.688 42.874 18.861 42.701 19.074 42.701 L 28.926 42.701 C 29.139 42.701 29.313 42.874 29.313 43.088 C 29.313 43.301 29.139 43.474 28.926 43.474 Z "
+         fill="rgb(255,255,255)"
+         id="path23"
+         style="fill-opacity:1.0;fill:url(#linearGradient848)" />
+      <path
+         d=" M 24 43.474 C 23.787 43.474 23.614 43.301 23.614 43.088 L 23.614 39.393 C 23.614 39.18 23.787 39.007 24 39.007 C 24.213 39.007 24.386 39.18 24.386 39.393 L 24.386 43.088 C 24.386 43.302 24.213 43.474 24 43.474 Z "
+         fill="rgb(255,255,255)"
+         id="path25"
+         style="fill-opacity:1.0;fill:url(#linearGradient848)" />
+    </g>
+  </g>
+</svg>
