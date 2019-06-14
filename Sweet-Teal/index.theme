@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Sweet-Teal
 Comment=Teal folders for Sweet theme.
-Inherits=Zafiro-icons,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
+Inherits=candy-icons,breeze-dark,gnome,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
 
 
 # Directory list
