@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg5" width="48pt" height="48pt" style="isolation:isolate" version="1.1" viewBox="0 0 48 48">
+	<defs id="defs2">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#fff; }
+.ColorScheme-Highlight { color:#50c9c3; }
+.ColorScheme-HighlightedText { color:#fff }</style>
+		<linearGradient id="linearGradient9" x1="1.5" x2="46" y1="32" y2="32" gradientTransform="matrix(1 0 0 .807 -.000766 8.52)" gradientUnits="userSpaceOnUse">
+			<stop id="stop1" stop-color="#fff" stop-opacity="0" offset="0"/>
+			<stop id="stop2" class="ColorScheme-HighlightedText" stop-color="currentColor" stop-opacity=".4" offset="1"/>
+		</linearGradient>
+	</defs>
+	<path id="path9" class="ColorScheme-Highlight" d="m6.43 11.5c-2.71 0-4.92 2.21-4.92 4.93l-0.00593 25.1c0 2.72 2.21 4.93 4.92 4.93h35.2c2.71 0 4.92-2.21 4.92-4.93v-20.1c0-2.72-2.21-4.93-4.92-4.93h-15.1c-4.02 0-6.53-1.91-9.24-3.82-0.904-0.634-2.52-1.21-3.63-1.21z" fill="currentColor"/>
+	<path id="path2" class="ColorScheme-Highlight" d="m6.43 18.3c-2.71 0-4.92 1.78-4.92 3.98l-0.00593 20.3c0 2.2 2.21 3.98 4.92 3.98h35.2c2.71 0 4.92-1.78 4.92-3.98v-16.2c0-2.2-2.21-3.98-4.92-3.98h-15.1c-4.02 0-6.53-1.54-9.24-3.08-0.904-0.512-2.52-0.977-3.63-0.977z" fill="currentColor" stroke-width=".898"/>
+	<path id="path4" class="ColorScheme-HighlightedText" d="m1.51 22.3c-0.00201 6.8-0.00392 13.8-0.00593 20.3 6e-7 2.19 2.21 3.97 4.92 3.97h35.2c2.71 0 4.92-1.78 4.92-3.97v-16.2c0-2.19-2.21-4.04-4.92-4.04z" fill="url(#linearGradient9)" stroke-width=".898"/>
+	<path id="path8" d="m13.7 11.5-7.22 0.0308c-2.71 0-4.92 2.21-4.92 4.93l-0.0059 25.1 0.0059-19.3c0-1.08 0.539-2.07 1.41-2.78-0.682 1.76 0.424 2.6 2.49 2.84h36.2c2.71 0 4.92 1.78 4.92 3.98v-4.84c0-2.72-2.21-4.93-4.92-4.93h-15.1c-4.02 0-6.53-1.91-9.24-3.82-0.904-0.634-2.52-1.21-3.63-1.21z" fill-opacity=".2"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg5" width="48pt" height="48pt" style="isolation:isolate" version="1.1" viewBox="0 0 48 48">
+	<defs id="defs2">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#fff; }
+.ColorScheme-Highlight { color:#50c9c3; }
+.ColorScheme-HighlightedText { color:#fff }</style>
+		<linearGradient id="a" x1="1.5" x2="46" y1="32" y2="32" gradientTransform="translate(-.000766 -.557)" gradientUnits="userSpaceOnUse">
+			<stop id="stop1" stop-color="#fff" stop-opacity="0" offset="0"/>
+			<stop id="stop2" class="ColorScheme-HighlightedText" stop-color="currentColor" stop-opacity=".4" offset="1"/>
+		</linearGradient>
+	</defs>
+	<path id="path2" class="ColorScheme-Highlight" d="m6.43 11.5c-2.71 0-4.92 2.21-4.92 4.93l-0.00593 25.1c0 2.72 2.21 4.93 4.92 4.93h35.2c2.71 0 4.92-2.21 4.92-4.93v-20.1c0-2.72-2.21-4.93-4.92-4.93h-15.1c-4.02 0-6.53-1.91-9.24-3.82-0.904-0.634-2.52-1.21-3.63-1.21z" fill="currentColor"/>
+	<path id="path3" d="m6.52 11.5c-1.41-0.00369-2.69 0.568-3.59 1.45-0.703 2.2 0.405 3.25 2.48 3.55h21.1c-4.02 0-6.43-1.8-9.24-3.8-0.904-0.64-2.52-1.2-3.63-1.2z" fill-opacity=".2"/>
+	<path id="path4" class="ColorScheme-HighlightedText" d="m1.51 16.5c-0.00201 8.43-0.00392 17.1-0.00593 25.1 6e-7 2.71 2.21 4.92 4.92 4.92h35.2c2.71 0 4.92-2.21 4.92-4.92v-20.1c0-2.71-2.21-5-4.92-5z" fill="url(#a)"/>
+	<path id="pathtext" class="ColorScheme-Text" d="m41.6 29.3h-7.56l-4.19 7.27-1.47-2.55h-1.89v0.944h1.35l2.05 3.49 4.72-8.22h6.04v0.945h0.945zm-4.72 2.83c-1.57 0-2.83 1.23-2.83 2.83s1.26 2.83 2.83 2.83c0.73 0 1.42-0.283 1.89-0.756v0.756h0.944v-5.67h-0.944v0.756c-0.502-0.472-1.16-0.756-1.89-0.756zm0 0.944c1.05 0 1.89 0.85 1.89 1.89 0 1.04-0.843 1.89-1.89 1.89s-1.89-0.85-1.89-1.89c0-1.04 0.843-1.89 1.89-1.89zm-11.3 6.61v0.472 0.472h17v-0.472-0.472zm7.56 2.83v0.472 0.472h1.89v-0.472-0.472z" fill="currentColor" style="isolation:isolate"/>
+	<path id="path6" class="ColorScheme-Text" d="m41.6 29.3h-7.56l-4.19 7.27-1.47-2.55h-1.89v0.944h1.35l2.05 3.49 4.72-8.22h6.04v0.945h0.945zm-4.72 2.83c-1.57 0-2.83 1.23-2.83 2.83s1.26 2.83 2.83 2.83c0.73 0 1.42-0.283 1.89-0.756v0.756h0.944v-5.67h-0.944v0.756c-0.502-0.472-1.16-0.756-1.89-0.756zm0 0.944c1.05 0 1.89 0.85 1.89 1.89 0 1.04-0.843 1.89-1.89 1.89s-1.89-0.85-1.89-1.89c0-1.04 0.843-1.89 1.89-1.89zm-11.3 6.61v0.472 0.472h17v-0.472-0.472zm7.56 2.83v0.472 0.472h1.89v-0.472-0.472z" fill="#fff" fill-opacity=".2" style="isolation:isolate"/>
+</svg>
