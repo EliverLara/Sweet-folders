@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5" width="48pt" height="48pt" style="isolation:isolate" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+	<defs id="defs2">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#fff; }
+.ColorScheme-Highlight { color:#50c9c3; }
+.ColorScheme-HighlightedText { color:#fff }</style>
+		<linearGradient id="a" x1="1.5" x2="46" y1="32" y2="32" gradientTransform="translate(-.000766 -.557)" gradientUnits="userSpaceOnUse">
+			<stop id="stop1" stop-color="#fff" stop-opacity="0" offset="0"/>
+			<stop id="stop2" class="ColorScheme-HighlightedText" stop-color="currentColor" stop-opacity=".4" offset="1"/>
+		</linearGradient>
+	</defs>
+	<path id="path2" class="ColorScheme-Highlight" d="m6.43 11.5c-2.71 0-4.92 2.21-4.92 4.93l-0.00593 25.1c0 2.72 2.21 4.93 4.92 4.93h35.2c2.71 0 4.92-2.21 4.92-4.93v-20.1c0-2.72-2.21-4.93-4.92-4.93h-15.1c-4.02 0-6.53-1.91-9.24-3.82-0.904-0.634-2.52-1.21-3.63-1.21z" fill="currentColor"/>
+	<path id="path3" d="m6.52 11.5c-1.41-0.00369-2.69 0.568-3.59 1.45-0.703 2.2 0.405 3.25 2.48 3.55h21.1c-4.02 0-6.43-1.8-9.24-3.8-0.904-0.64-2.52-1.2-3.63-1.2z" fill-opacity=".2"/>
+	<path id="path4" class="ColorScheme-HighlightedText" d="m1.51 16.5c-0.00201 8.43-0.00392 17.1-0.00593 25.1 6e-7 2.71 2.21 4.92 4.92 4.92h35.2c2.71 0 4.92-2.21 4.92-4.92v-20.1c0-2.71-2.21-5-4.92-5z" fill="url(#a)"/>
+	<path id="path25" d="m1.5 37.5v3h3.19v-3zm3.19 3v3h3v-3zm3 0h3v-3h-3zm3 0v3h3v-3zm3 0h3v-3h-3zm3 0v3h3v-3zm3 0h3v-3h-3zm3 0v3h3v-3zm3 0h3v-3h-3zm3 0v3h3v-3zm3 0h3v-3h-3zm3 0v3h3v-3zm3 0h3v-3h-3zm3 0v3h3v-3zm3 0h2.78v-3h-2.78zm-3 3h-3v3h3zm-6 0h-3v3h3zm-6 0h-3v3h3zm-6 0h-3v3h3zm-6 0h-3v3h3zm-6 0h-3v3h3z"  fill-opacity=".2" fill-rule="evenodd" stroke-width=".75" style="isolation:isolate"/>
+	<path id="pathtext" class="ColorScheme-Text" d="m35.7 26c-2.48 0-4.5 2.02-4.5 4.5v4.45h-1.32c-0.533 0-0.981 0.449-0.981 0.981v6.54c0 0.533 0.449 0.981 0.981 0.981h11.6c0.533 0 0.983-0.449 0.983-0.981v-6.54c0-0.533-0.45-0.981-0.983-0.981h-1.32v-4.45c-7.99e-4 -2.48-2.02-4.5-4.5-4.5zm0 1.3c1.78 0 3.2 1.43 3.2 3.2h0.0029v4.45h-6.41v-4.45c7.88e-4 -1.78 1.43-3.2 3.2-3.2zm-5.49 8.96h11v5.88h-11z"  fill="currentColor" style="-inkscape-stroke:none;isolation:isolate"/>
+	<path id="path6" d="m35.7 26c-2.48 0-4.5 2.02-4.5 4.5v4.45h-1.32c-0.533 0-0.981 0.449-0.981 0.981v6.54c0 0.533 0.449 0.981 0.981 0.981h11.6c0.533 0 0.983-0.449 0.983-0.981v-6.54c0-0.533-0.45-0.981-0.983-0.981h-1.32v-4.45c-7.99e-4 -2.48-2.02-4.5-4.5-4.5zm0 1.3c1.78 0 3.2 1.43 3.2 3.2h0.0029v4.45h-6.41v-4.45c7.88e-4 -1.78 1.43-3.2 3.2-3.2zm-5.49 8.96h11v5.88h-11z"  fill="#fff" fill-opacity=".2" style="-inkscape-stroke:none;isolation:isolate"/>
+</svg>
