@@ -5,55 +5,23 @@ Inherits=candy-icons,breeze-dark,gnome,ubuntu-mono-dark,Mint-X,elementary,gnome,
 
 
 # Directory list
-Directories=Places
+Directories=Places/48,Places/16
+Example=folder
+DisplayDepth=32
 
+FollowsColorScheme=true
 
-[Apps]
-Context=Applications
-Size=96
-MinSize=16
-MaxSize=192
-Type=Scalable
-
-[Mimes]
-Context=MimeTypes
-Size=96
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-[Places]
+[Places/48]
+Size=48
 Context=Places
-Size=96
-MinSize=16
+MinSize=32
 MaxSize=512
 Type=Scalable
 
-[Status]
-Context=Status
-Size=96
-MinSize=16
-MaxSize=512
+[Places/16]
+Size=16
+Context=Places
+MinSize=8
+MaxSize=32
 Type=Scalable
 
-[Categories]
-Context=Categories
-Size=96
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-
-[Devices]
-Size=96
-Context=Devices
-Type=Scalable
-MinSize=16
-MaxSize=512
-
-[Emblems]
-Size=96
-Context=Emblems
-Type=Scalable
-MinSize=16
-MaxSize=512
